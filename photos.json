@@ -50,6 +50,10 @@
       "alt": "Two-frame bubblegum portrait on a green-toned train \u2014 photographed by Oliver Birkett"
     },
     {
+      "file": "images/blue-jacket-pose-v2.jpg",
+      "alt": "Woman in a metallic blue leather jacket posing with hand to face on a white background \u2014 photographed by Oliver Birkett"
+    },
+    {
       "file": "images/SHOTBY-BIRKETTOLIVER-02232.jpg",
       "alt": "Man lying on railings reflected in a sunglasses lens \u2014 photographed by Oliver Birkett"
     },
@@ -94,10 +98,6 @@
       "alt": "Man in a leather jacket, high-contrast black and white \u2014 photographed by Oliver Birkett"
     },
     {
-      "file": "images/blue-jacket-standing.jpg",
-      "alt": "Woman in a metallic blue leather jacket, jeans and sunglasses on a white background \u2014 photographed by Oliver Birkett"
-    },
-    {
       "file": "images/SHOTBY-BIRKETTOLIVER-02231.jpg",
       "alt": "Man in an England shirt on the phone in a field \u2014 photographed by Oliver Birkett"
     },
@@ -106,8 +106,8 @@
       "alt": "Woman blowing bubblegum on a Tube train, blue tones \u2014 photographed by Oliver Birkett"
     },
     {
-      "file": "images/blue-jacket-pose.jpg",
-      "alt": "Woman in a metallic blue leather jacket posing with hand to face on a white background \u2014 photographed by Oliver Birkett"
+      "file": "images/blue-jacket-standing-v2.jpg",
+      "alt": "Woman in a metallic blue leather jacket, jeans and sunglasses on a white background \u2014 photographed by Oliver Birkett"
     },
     {
       "file": "images/untitled-2.jpg",
@@ -151,24 +151,29 @@
       "alt": "Blue-toned close-up of an eye with BRKT on the iris \u2014 photographed by Oliver Birkett"
     },
     {
+      "file": "images/blue-jacket-pose-v2.jpg",
+      "alt": "Woman in a metallic blue leather jacket posing with hand to face on a white background \u2014 photographed by Oliver Birkett",
+      "col": "L"
+    },
+    {
       "file": "images/england-kit-sunglasses.jpg",
       "alt": "Man in an England shirt and red sunglasses looking down \u2014 photographed by Oliver Birkett",
-      "col": "L"
+      "col": "R"
     },
     {
       "file": "images/tunnel-lean-v2.jpg",
       "alt": "Woman in sunglasses leaning forward in a graffiti underpass \u2014 photographed by Oliver Birkett",
-      "col": "R"
+      "col": "L"
     },
     {
       "file": "images/SHOTBY-BIRKETTOLIVER-01247-3.jpg",
       "alt": "Bubblegum portrait inside a Tube carriage \u2014 photographed by Oliver Birkett",
-      "col": "L"
+      "col": "R"
     },
     {
       "file": "images/tunnel-hair-spin-v2.jpg",
       "alt": "Woman flicking her hair in a green-lit underpass \u2014 photographed by Oliver Birkett",
-      "col": "R"
+      "col": "L"
     },
     {
       "file": "images/collage-02-02.jpg",
@@ -178,17 +183,17 @@
     {
       "file": "images/SHOTBY-BIRKETTOLIVER-02232.jpg",
       "alt": "Man lying on railings reflected in a sunglasses lens \u2014 photographed by Oliver Birkett",
-      "col": "R"
+      "col": "L"
     },
     {
       "file": "images/dsc00021.jpg",
       "alt": "Woman in a denim jacket against metal railings \u2014 photographed by Oliver Birkett",
-      "col": "L"
+      "col": "R"
     },
     {
       "file": "images/SHOTBY-BIRKETTOLIVER-01101.jpg",
       "alt": "Figure on a spiral staircase at night \u2014 photographed by Oliver Birkett",
-      "col": "R"
+      "col": "L"
     },
     {
       "file": "images/blue-blur-sunglasses.jpg",
@@ -198,7 +203,7 @@
     {
       "file": "images/SHOTBY-BIRKETTOLIVER-000033150038.jpg",
       "alt": "Blurred figure on an Underground platform in green light \u2014 photographed by Oliver Birkett",
-      "col": "L"
+      "col": "R"
     },
     {
       "file": "images/6.jpg",
@@ -208,11 +213,6 @@
     {
       "file": "images/SHOTBY-BIRKETTOLIVER-02230.jpg",
       "alt": "Man in an England shirt holding a red flip phone in a car \u2014 photographed by Oliver Birkett",
-      "col": "R"
-    },
-    {
-      "file": "images/blue-jacket-standing.jpg",
-      "alt": "Woman in a metallic blue leather jacket, jeans and sunglasses on a white background \u2014 photographed by Oliver Birkett",
       "col": "L"
     },
     {
@@ -228,11 +228,11 @@
     {
       "file": "images/DSC05735-3.jpg",
       "alt": "Man in a leather jacket, high-contrast black and white \u2014 photographed by Oliver Birkett",
-      "col": "L"
+      "col": "R"
     },
     {
-      "file": "images/blue-jacket-pose.jpg",
-      "alt": "Woman in a metallic blue leather jacket posing with hand to face on a white background \u2014 photographed by Oliver Birkett",
+      "file": "images/blue-jacket-standing-v2.jpg",
+      "alt": "Woman in a metallic blue leather jacket, jeans and sunglasses on a white background \u2014 photographed by Oliver Birkett",
       "col": "L"
     },
     {
